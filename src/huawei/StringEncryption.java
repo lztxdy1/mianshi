@@ -32,7 +32,7 @@ public class StringEncryption {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         String s = null;
         while (null != (s = bf.readLine())){
-            String key = s;
+            String key = s.toLowerCase();
             String str = bf.readLine();
             System.out.println(getEncryptionStr(key, str));
         }
