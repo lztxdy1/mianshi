@@ -1,6 +1,6 @@
 package base.sort;
 
-import static base.sort.algorithm.MergeSort.mergeSort;
+import static base.sort.algorithm.HeapSort.heapSort;
 import static base.sort.util.SortUtil.printArr;
 
 public class Test {
@@ -11,7 +11,7 @@ public class Test {
         //quickSort(arr);       //快速排序
         //bubbleSort(arr);      //冒泡排序
         //selectSort(arr);       //选择排序
-        mergeSort(arr);        //归并排序
+        heapSort(arr);        //堆排序
         printArr(arr);
 
     }
