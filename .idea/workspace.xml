@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d84e213-5965-4b26-8b06-d75ef724efbb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/base/sort2/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/sort2/HeapSort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mianshi$Sort.ic" NAME="Sort Coverage Results" MODIFIED="1614266119274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>huawei.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Study\apache-maven-3.6.1\maven_repo" />
+        <option name="mavenHome" value="D:/Study/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Study\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectId" id="1q8ao72rpTbPTzujfThz7GYdcFj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616339139347" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="huawei" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FindFirstChar">
+    <configuration name="BallDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.BallDown" />
+      <module name="mianshi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.DeleteDuplicates" />
+      <module name="mianshi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindFirstChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.FindFirstChar" />
+      <module name="mianshi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameBeauty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.NameBeauty" />
+      <module name="mianshi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.StringSort2" />
+      <module name="mianshi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindFirstChar" />
+        <item itemvalue="Application.NameBeauty" />
+        <item itemvalue="Application.BallDown" />
+        <item itemvalue="Application.DeleteDuplicates" />
+        <item itemvalue="Application.StringSort2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\98023\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d84e213-5965-4b26-8b06-d75ef724efbb" name="Default Changelist" comment="" />
+      <created>1614253049788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614253049788</updated>
+      <workItem from="1614253055459" duration="11351000" />
+      <workItem from="1614319984125" duration="6322000" />
+      <workItem from="1614521096116" duration="5233000" />
+      <workItem from="1614556761193" duration="21716000" />
+      <workItem from="1614651251486" duration="20179000" />
+      <workItem from="1614698266892" duration="6322000" />
+      <workItem from="1614738925717" duration="14275000" />
+      <workItem from="1614944121365" duration="9920000" />
+      <workItem from="1615000218422" duration="12680000" />
+      <workItem from="1615108128422" duration="2515000" />
+      <workItem from="1615110697625" duration="5049000" />
+      <workItem from="1615192724952" duration="12419000" />
+      <workItem from="1615254046374" duration="16571000" />
+      <workItem from="1615286970466" duration="345000" />
+      <workItem from="1615295612874" duration="2828000" />
+      <workItem from="1615959850257" duration="2562000" />
+      <workItem from="1615964558554" duration="1410000" />
+      <workItem from="1615980199694" duration="4893000" />
+      <workItem from="1616031146057" duration="1722000" />
+      <workItem from="1616033620868" duration="2317000" />
+      <workItem from="1616255891360" duration="511000" />
+      <workItem from="1616256497780" duration="1615000" />
+      <workItem from="1616289759813" duration="1799000" />
+      <workItem from="1616291917010" duration="612000" />
+      <workItem from="1616463849412" duration="19049000" />
+      <workItem from="1616515024576" duration="74000" />
+      <workItem from="1616545426739" duration="13963000" />
+      <workItem from="1616580100040" duration="94000" />
+      <workItem from="1616580222170" duration="281000" />
+      <workItem from="1616580562690" duration="95000" />
+      <workItem from="1616580725147" duration="330000" />
+      <workItem from="1616581080175" duration="124000" />
+      <workItem from="1616581439304" duration="492000" />
+      <workItem from="1616583073354" duration="71000" />
+      <workItem from="1616593236907" duration="7039000" />
+      <workItem from="1616638124977" duration="4013000" />
+      <workItem from="1616674682509" duration="12080000" />
+      <workItem from="1616934128986" duration="540000" />
+    </task>
+    <task id="LOCAL-00001" summary="蛇形矩阵">
+      <created>1614961985180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614961985180</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1615023327026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615023327026</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1615123431395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615123431395</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1615254897289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615254897290</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1615254906537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615254906537</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1615280825955</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615280825955</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1615285412495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615285412495</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1615286249892</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615286249892</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1615990372471</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615990372471</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="蛇形矩阵" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="651" y="279" key="#Notifications" timestamp="1616581184844">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="651" y="279" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1616581184844" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1616601161510">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1616601161510" />
+    <state width="1492" height="193" key="GridCell.Tab.0.bottom" timestamp="1616689897783">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="193" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1616689897783" />
+    <state width="1492" height="193" key="GridCell.Tab.0.center" timestamp="1616689897782">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="193" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1616689897782" />
+    <state width="1492" height="193" key="GridCell.Tab.0.left" timestamp="1616689897782">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="193" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1616689897782" />
+    <state width="1492" height="193" key="GridCell.Tab.0.right" timestamp="1616689897782">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="193" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1616689897782" />
+    <state width="1492" height="402" key="GridCell.Tab.1.bottom" timestamp="1616689897780">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="402" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1616689897780" />
+    <state width="1492" height="402" key="GridCell.Tab.1.center" timestamp="1616689897779">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="402" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1616689897779" />
+    <state width="1492" height="402" key="GridCell.Tab.1.left" timestamp="1616689897779">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="402" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1616689897779" />
+    <state width="1492" height="402" key="GridCell.Tab.1.right" timestamp="1616689897780">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="402" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1616689897780" />
+    <state x="349" y="153" key="IDE.errors.dialog" timestamp="1616674724914">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="153" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1616674724914" />
+    <state x="235" y="81" key="SettingsEditor" timestamp="1616581947789">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="235" y="81" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1616581947789" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1616487403567">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1616487403567" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/base/sort2/QuickSort.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bytedance/CountArray.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/huawei/TongPeiFu.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/huawei/ZhiShuYinZi.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="list1" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>list1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

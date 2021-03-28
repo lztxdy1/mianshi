@@ -18,6 +18,7 @@ public class HeapSort {
      */
     public static int[] HeapSort(int[] array) {
         len = array.length - 1;
+        int i = 0;
         if (len < 1) return array;
         //1.构建一个最大堆
         buildMaxHeap(array);
