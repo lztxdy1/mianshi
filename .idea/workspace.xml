@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d84e213-5965-4b26-8b06-d75ef724efbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/base/sort2/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/sort2/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mianshi/huawei/FindFirstChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mianshi/huawei/FindFirstChar.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,20 +88,20 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="huawei" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindFirstChar">
-    <configuration name="BallDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="huawei.BallDown" />
+  <component name="RunManager" selected="Application.Mp3Location">
+    <configuration name="AutouNBoxingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.AutouNBoxingTest" />
       <module name="mianshi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="huawei.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.DeleteDuplicates" />
+    <configuration name="DeleteLinkedListValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.middle.DeleteLinkedListValue" />
       <module name="mianshi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="huawei.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFirstChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="huawei.FindFirstChar" />
+    <configuration name="MiGong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.middle.MiGong" />
       <module name="mianshi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="huawei.*" />
+          <option name="PATTERN" value="huawei.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameBeauty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="huawei.NameBeauty" />
+    <configuration name="Mp3Location" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.middle.Mp3Location" />
       <module name="mianshi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="huawei.*" />
+          <option name="PATTERN" value="huawei.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="huawei.StringSort2" />
+    <configuration name="TranslateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TranslateString" />
       <module name="mianshi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="huawei.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindFirstChar" />
-        <item itemvalue="Application.NameBeauty" />
-        <item itemvalue="Application.BallDown" />
-        <item itemvalue="Application.DeleteDuplicates" />
-        <item itemvalue="Application.StringSort2" />
+        <item itemvalue="Application.Mp3Location" />
+        <item itemvalue="Application.MiGong" />
+        <item itemvalue="Application.DeleteLinkedListValue" />
+        <item itemvalue="Application.AutouNBoxingTest" />
+        <item itemvalue="Application.TranslateString" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +218,12 @@
       <workItem from="1616593236907" duration="7039000" />
       <workItem from="1616638124977" duration="4013000" />
       <workItem from="1616674682509" duration="12080000" />
-      <workItem from="1616934128986" duration="540000" />
+      <workItem from="1616934128986" duration="6413000" />
+      <workItem from="1617154567260" duration="4289000" />
+      <workItem from="1617242143841" duration="4143000" />
+      <workItem from="1617550099457" duration="6335000" />
+      <workItem from="1617606581474" duration="1234000" />
+      <workItem from="1617608527348" duration="2298000" />
     </task>
     <task id="LOCAL-00001" summary="蛇形矩阵">
       <created>1614961985180</created>
@@ -282,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615990372471</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1616934711445</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616934711445</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,54 +343,66 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="651" y="279" key="#Notifications" timestamp="1616581184844">
+    <state x="605" y="332" key="#Custom_Plugin_Repositories" timestamp="1617607817463">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="651" y="279" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1616581184844" />
-    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1616601161510">
+    <state x="605" y="332" key="#Custom_Plugin_Repositories/0.0.1536.834@0.0.1536.834" timestamp="1617607817463" />
+    <state x="651" y="279" key="#Notifications" timestamp="1617610077506">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1616601161510" />
-    <state width="1492" height="193" key="GridCell.Tab.0.bottom" timestamp="1616689897783">
+    <state x="651" y="279" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1617610077506" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1616948365532">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1492" height="193" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1616689897783" />
-    <state width="1492" height="193" key="GridCell.Tab.0.center" timestamp="1616689897782">
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1616948365532" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1616934709729">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1492" height="193" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1616689897782" />
-    <state width="1492" height="193" key="GridCell.Tab.0.left" timestamp="1616689897782">
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1616934709729" />
+    <state width="1492" height="193" key="GridCell.Tab.0.bottom" timestamp="1617609603652">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1492" height="193" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1616689897782" />
-    <state width="1492" height="193" key="GridCell.Tab.0.right" timestamp="1616689897782">
+    <state width="1492" height="193" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1617609603652" />
+    <state width="1492" height="193" key="GridCell.Tab.0.center" timestamp="1617609603652">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1492" height="193" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1616689897782" />
-    <state width="1492" height="402" key="GridCell.Tab.1.bottom" timestamp="1616689897780">
+    <state width="1492" height="193" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1617609603652" />
+    <state width="1492" height="193" key="GridCell.Tab.0.left" timestamp="1617609603651">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1492" height="402" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1616689897780" />
-    <state width="1492" height="402" key="GridCell.Tab.1.center" timestamp="1616689897779">
+    <state width="1492" height="193" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1617609603651" />
+    <state width="1492" height="193" key="GridCell.Tab.0.right" timestamp="1617609603652">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1492" height="402" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1616689897779" />
-    <state width="1492" height="402" key="GridCell.Tab.1.left" timestamp="1616689897779">
+    <state width="1492" height="193" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1617609603652" />
+    <state width="1492" height="402" key="GridCell.Tab.1.bottom" timestamp="1617607240870">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1492" height="402" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1616689897779" />
-    <state width="1492" height="402" key="GridCell.Tab.1.right" timestamp="1616689897780">
+    <state width="1492" height="402" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1617607240870" />
+    <state width="1492" height="402" key="GridCell.Tab.1.center" timestamp="1617607240869">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1492" height="402" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1616689897780" />
-    <state x="349" y="153" key="IDE.errors.dialog" timestamp="1616674724914">
+    <state width="1492" height="402" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1617607240869" />
+    <state width="1492" height="402" key="GridCell.Tab.1.left" timestamp="1617607240869">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="349" y="153" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1616674724914" />
-    <state x="235" y="81" key="SettingsEditor" timestamp="1616581947789">
+    <state width="1492" height="402" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1617607240869" />
+    <state width="1492" height="402" key="GridCell.Tab.1.right" timestamp="1617607240870">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="235" y="81" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1616581947789" />
+    <state width="1492" height="402" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1617607240870" />
+    <state x="349" y="153" key="IDE.errors.dialog" timestamp="1617606727687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="153" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1617606727687" />
+    <state x="235" y="81" key="SettingsEditor" timestamp="1617608591328">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="235" y="81" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1617608591328" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1616934745613">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1616934745613" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1616487403567">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
